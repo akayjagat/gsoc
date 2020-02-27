@@ -24,4 +24,4 @@ pytest-openfiles==0.3.1
 pytest-remotedata==0.3.1
 python-crfsuite==0.9.6
 python-dateutil==2.8.0
-opencv==2
+opencv==2.4.11
